@@ -37,9 +37,9 @@ header:
   menuTextColor: "#ffffff"
   menu:
     - { text: "首頁", link: "#" }
-    - { text: "菜品展示", link: "/zh-cn/gallery" }
-    - { text: "關於我們", link: "/zh-cn#about-us" }
-    - { text: "聯繫我們", link: "/zh-cn#contact-us" }
+    - { text: "菜品展示", link: "#gallery" }
+    - { text: "關於我們", link: "#about-us" }
+    - { text: "聯繫我們", link: "#contact-us" }
     - { text: "English", link: "/" }
   addOrderOnlineBtn: false
   orderOnlineBtnInsteadText: ""

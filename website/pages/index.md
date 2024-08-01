@@ -16,8 +16,8 @@ tel: "916-961-1508"
 
 banner:
   text: 
-    - boldText: "🔥 All you can eat seafood, sushi and hibachi grill."
-    - text: "Limited time offer. soft opening special . take 15% off entire bill with this ad."
+    - boldText: "🔥 All you can eat seafood, sushi and hibachi grill. Limited time offer. soft opening special . take 15% off entire bill with this ad."
+    - text: ""
     # - smText: ""
     # - text: ""
   # add more text...
@@ -37,7 +37,7 @@ header:
   menuTextColor: "#ffffff"
   menu:
     - { text: "Home", link: "/" }
-    - { text: "Gallery", link: "/gallery" }
+    - { text: "Gallery", link: "#gallery" }
     - { text: "About Us", link: "#about-us" }
     - { text: "Contact Us", link: "#contact-us" }
     - { text: "中文", link: "/zh-cn" }
@@ -412,8 +412,8 @@ footer:
   logoSize: 80
 
   menu:
-    - { text: "Home", link: "/" }
-    - { text: "Gallery", link: "/gallery" }
+    - { text: "Home", link: "#" }
+    - { text: "Gallery", link: "#gallery" }
     - { text: "About Us", link: "#about-us" }
     - { text: "Contact Us", link: "#contact-us" }
     - { text: "中文", link: "/zh-cn" }
